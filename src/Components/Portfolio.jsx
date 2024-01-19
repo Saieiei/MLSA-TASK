@@ -46,7 +46,7 @@ const projectList = [
     title: "My GitHub Profile",
     description:
       "This is my GitHub Profile.",
-    url: "https://github.com/Saieiei",
+    url: "/Saieiei",
   },
   {
     title: "My Instagram Profile",
