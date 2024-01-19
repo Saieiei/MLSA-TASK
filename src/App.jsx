@@ -27,12 +27,12 @@ const siteProps = {
   name: "Sairudra More",
   title: "Computer Science Enginner",
   email: "sairudra.more@studentambassadors.com",
-  gitHub: "https://github.com/Saieiei",
-  instagram: "https://www.instagram.com/sairudra60/",
-  linkedIn: "https://www.linkedin.com/in/sairudra-more/",
+  gitHub: "Saieiei",
+  instagram: "sairudra60/",
+  linkedIn: "sairudra-more/",
   medium: "",
-  twitter: "https://twitter.com/Sai69962665",
-  youTube: "https://www.youtube.com/channel/UCuMiKFxdmvuTYGLTOJZ9_wA",
+  twitter: "Sai69962665",
+  youTube: "UCuMiKFxdmvuTYGLTOJZ9_wA",
 };
 
 const primaryColor = "#4E567E";
